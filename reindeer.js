@@ -15,7 +15,7 @@ hohohoElement.innerHTML += " ";
 hohohoElement.innerHTML += currentReindeer;
 hohohoElement.innerHTML += "<br>";
 
-console.log(hohohoElement);
+
 }
 
 
